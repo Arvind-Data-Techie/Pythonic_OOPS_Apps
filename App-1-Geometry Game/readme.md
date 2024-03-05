@@ -23,8 +23,9 @@ Welcome to the Geometry Game, where shapes come to life and turtles roam free! T
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Ensure you have Python and the Turtle graphics library installed.
-3. Run the script, sit back, and enjoy the geometry magic!
+2. The file is located at `App-1-Geometry Game/geometry_game.py`
+3. Ensure you have Python and the Turtle graphics library installed.
+4. Run the script, sit back, and enjoy the geometry magic!
 
 ## Developer
 
