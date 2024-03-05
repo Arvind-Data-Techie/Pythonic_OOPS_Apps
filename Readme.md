@@ -15,6 +15,12 @@ Dive into the world of shapes and spatial relationships with our Geometry Game! 
 ### App : 2 -  Flatmate Bill 💼📝
 Keep track of shared expenses with ease using our Flatmate Bill application. Split bills, calculate owed amounts, and maintain financial harmony among roommates effortlessly.
 
+### App : 3 -  Project-Math-Painting 🎨😄
+This interactive application combines the beauty of mathematics with the creativity of painting. Users can explore various mathematical concepts through visually stunning representations and create unique artworks in the process. This app provides a canvas for mathematical exploration os squares and Rectangles.
+
+### App : 4 -  Managing Bank Accounts 🤑💰
+Take control of your finances with this comprehensive bank account management app. Whether you're tracking expenses, setting budgets, or monitoring savings goals, this app provides all the tools you need to manage your money effectively. Features include creating and managing multiple bank accounts, recording transactions, categorizing expenses, generating financial reports, and more. With intuitive user interfaces and powerful analytical tools, this app simplifies the process of managing your bank accounts, helping you make informed financial decisions and achieve your financial goals with ease.
+
 
 ...and many more Coming - Stay Tuned!
 
