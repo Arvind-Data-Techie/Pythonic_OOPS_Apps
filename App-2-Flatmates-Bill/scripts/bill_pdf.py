@@ -31,13 +31,13 @@ class Pdfreport:
         pdf.cell(w=80, h=45, txt='Arvind Stay :  ', border=0)
         pdf.cell(w=50, h=45, txt=str(flatmate1.days_in_house)+' days', border=0, ln=1)
 
-        pdf.cell(w=80, h=-15, txt='Harshni Stay :', border=0)
+        pdf.cell(w=80, h=-15, txt='Roshini Stay :', border=0)
         pdf.cell(w=50, h=-15, txt=str(flatmate2.days_in_house)+' days', border=0, ln=1)
 
         pdf.cell(w=80, h=65, txt='Arvind Bill :', border=0)
         pdf.cell(w=15, h=65, txt=str(round(flatmate1.pay_bill(bill,flatmate2),2))+'$', border=0, ln=1)
 
 
-        pdf.cell(w=80, h=-35, txt='Harshni Bill :', border=0)
+        pdf.cell(w=80, h=-35, txt='Roshini Bill :', border=0)
         pdf.cell(w=15, h=-35, txt=str(round(flatmate2.pay_bill(bill,flatmate1),2))+'$', border=0)
         pdf.output(self.filename, 'F')
